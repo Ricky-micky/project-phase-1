@@ -1,5 +1,5 @@
 
-fetch(' http://localhost:3000/hotels')
+fetch('https://project-phase-1-1.onrender.com/hotels')
   .then((response) => response.json())
   .then((json) => console.log(json));
 
@@ -122,7 +122,7 @@ document.getElementById('saveBookingButton').addEventListener('click', function(
 });
 
 // Post 2 safari
-fetch('http://localhost:3000/safaris')
+fetch('https://project-phase-1-1.onrender.com/safaris')
   .then((response) => response.json())
   .then((json) => console.log(json));
 
