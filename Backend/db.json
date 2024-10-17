@@ -1,0 +1,83 @@
+{
+    "hotels": [
+      {
+        "id": "1",
+        "name": "Diani Reef",
+        "location": "Diani Beach, Kenya",
+        "image": "./image copy 3.png",
+        "description": "A luxurious 5-star resort located on the beautiful Diani Beach, offering stunning views and top-notch amenities."
+      },
+      {
+        "id": "2",
+        "name": "Leisure Lodge Golf Resort",
+        "location": "Diani Beach, Kenya",
+        "image": "https://cloudfront.safaribookings.com/blog/2023/04/00-2-Top_10_Kenya_Beach_Hotels_And_Resorts-BW-header1200px.jpg",
+        "description": "A 4-star resort situated on the beach, offering comfortable rooms, a golf course, and a range of recreational activities."
+      },
+      {
+        "id": "3",
+        "name": "Sarova Whitesands Resort",
+        "location": "Bamburi Beach, Kenya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81uIzxAh2RTOtCbTpCZxeANI9LfUTX-Tj5VuLDuvjRb7--YcREksqGPgO56P3qIcwNXg&usqp=CAU",
+        "description": "A 5-star resort offering luxurious accommodations, multiple dining options, and a variety of activities on Bamburi Beach."
+      },
+      {
+        "id": "4",
+        "name": "English Point Marina",
+        "location": "Mombasa, Kenya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxq7lWf70BqoJyEJbkExVal_nGmHbIpNm4w&s",
+        "description": "A luxury hotel located on the waterfront, featuring a marina and various recreational activities."
+      },
+      {
+        "id": "5",
+        "name": "Serena Beach Resort & Spa",
+        "location": "Mombasa, Kenya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9buczdrue0shk-6wMj6H0Xq59Hnc8WxVQew&s",
+        "description": "A 5-star resort with luxurious rooms, multiple dining options, and beachside activities."
+      },
+      {
+        "id": "6",
+        "name": "Sunset Hotel Kisumu",
+        "location": "Kisumu, Kenya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp8O05ICu4uuxZa_4WMfcg9pSBcN9tXxu9Yg&s",
+        "description": "A 3-star resort offering comfortable accommodations and a relaxed atmosphere near the beach."
+      }
+    ],
+    "safaris": [
+      {
+        "id": "1",
+        "name": "Maasai Mara Adventure",
+        "location": "Maasai Mara National Reserve, Kenya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwzFLoIPdK_LupTc2t1Q8leF_V5esB4O71g&s",
+        "description": "Experience the thrill of a safari in one of the world's most famous wildlife reserves, known for the Great Migration and rich biodiversity."
+      },
+      {
+        "id": "2",
+        "name": "Serengeti Exploration",
+        "location": "Serengeti National Park, Tanzania",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2I0O8I9EfZXnsdq7LjAgflUK3xM0ReAwUA&s",
+        "description": "Explore the vast plains of the Serengeti, home to lions, elephants, and the annual wildebeest migration."
+      },
+      {
+        "id": "3",
+        "name": "Tsavo Safari",
+        "location": "Tsavo National Park",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81uIzxAh2RTOtCbTpCZxeANI9LfUTX-Tj5VuLDuvjRb7--YcREksqGPgO56P3qIcwNXg&usqp=CAU",
+        "description": "A safari adventure in Tsavo National Park, a vast wilderness reserve in Kenya. Explore the diverse ecosystems, encounter iconic wildlife like elephants, lions, and cheetahs, and witness the stunning landscapes."
+      },
+      {
+        "id": "4",
+        "name": "Diani Beach Getaway",
+        "location": "Diani Beach, Kenya",
+        "description": "Relax on the stunning Diani Beach while enjoying various water sports and beach activities. Perfect for families and adventure seekers alike.",
+        "price": 110,
+        "duration": "Full Day",
+        "activities": [
+          "Jet Skiing",
+          "Parasailing",
+          "Beach Volleyball"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNb_75tCOPBksc1UbtBz5QURPwh9FgmIEVw&s"
+      }
+    ]
+  }

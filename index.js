@@ -1,3 +1,9 @@
+
+fetch(' http://localhost:3000/hotels')
+  .then((response) => response.json())
+  .then((json) => console.log(json));
+
+
 const swip = new Swiper('.swip', {
     autoplay:{
         delay:2000,
@@ -116,6 +122,11 @@ document.getElementById('saveBookingButton').addEventListener('click', function(
 });
 
 // Post 2 safari
+fetch('http://localhost:3000/safaris')
+  .then((response) => response.json())
+  .then((json) => console.log(json));
+
+
 const db = {
     "safaris": [
         {
