@@ -23,6 +23,7 @@ LIcenced under the MT-licence
 ## Live server
 You can view the web live on Kenya hotels 
 github https://ricky-micky.github.io/project-phase-1/
+Rende : https://project-phase-1-1.onrender.com
 ## Known Bugs
 The application works perfectly well, no bugs.
 
