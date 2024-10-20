@@ -1,47 +1,61 @@
 {
-    "hotels": [
-      {
-        "id": "1",
-        "name": "Diani Reef",
-        "location": "Diani Beach, Kenya",
-        "image": "./image copy 3.png",
-        "description": "A luxurious 5-star resort located on the beautiful Diani Beach, offering stunning views and top-notch amenities."
-      },
-      {
-        "id": "2",
-        "name": "Leisure Lodge Golf Resort",
-        "location": "Diani Beach, Kenya",
-        "image": "https://cloudfront.safaribookings.com/blog/2023/04/00-2-Top_10_Kenya_Beach_Hotels_And_Resorts-BW-header1200px.jpg",
-        "description": "A 4-star resort situated on the beach, offering comfortable rooms, a golf course, and a range of recreational activities."
-      },
-      {
-        "id": "3",
-        "name": "Sarova Whitesands Resort",
-        "location": "Bamburi Beach, Kenya",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81uIzxAh2RTOtCbTpCZxeANI9LfUTX-Tj5VuLDuvjRb7--YcREksqGPgO56P3qIcwNXg&usqp=CAU",
-        "description": "A 5-star resort offering luxurious accommodations, multiple dining options, and a variety of activities on Bamburi Beach."
-      },
-      {
-        "id": "4",
-        "name": "English Point Marina",
-        "location": "Mombasa, Kenya",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxq7lWf70BqoJyEJbkExVal_nGmHbIpNm4w&s",
-        "description": "A luxury hotel located on the waterfront, featuring a marina and various recreational activities."
-      },
-      {
-        "id": "5",
-        "name": "Serena Beach Resort & Spa",
-        "location": "Mombasa, Kenya",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9buczdrue0shk-6wMj6H0Xq59Hnc8WxVQew&s",
-        "description": "A 5-star resort with luxurious rooms, multiple dining options, and beachside activities."
-      },
-      {
-        "id": "6",
-        "name": "Sunset Hotel Kisumu",
-        "location": "Kisumu, Kenya",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp8O05ICu4uuxZa_4WMfcg9pSBcN9tXxu9Yg&s",
-        "description": "A 3-star resort offering comfortable accommodations and a relaxed atmosphere near the beach."
-      }
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Diani Reef Beach Resort & Spa",
+      "location": "Diani Beach, Kwale County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9gGVgaSsvsW7AqMA1k-ZYDikpUr0OhJFHw&s",
+      "description": "A 5-star resort located on the beautiful Diani Beach, offering luxurious rooms and suites, multiple dining options, and a range of activities."
+    },
+    {
+      "id": "2",
+      "name": "Leisure Lodge Beach & Golf Resort",
+      "location": "Diani Beach, Kwale County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvqM80Wve9X6N4vLlmemxztRxovgSIuEAAg&s",
+      "description": "A 4-star resort situated on the beach, offering comfortable rooms, a golf course, and a range of recreational activities."
+    },
+    {
+      "id": "3",
+      "name": "Sarova Whitesands Beach Resort & Spa",
+      "location": "Bamburi Beach, Mombasa County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-kvs_Bk2PKWMbit6sh0sIRImNzKBb019jg&s",
+      "description": "A 5-star resort located on the beach, offering luxurious rooms and suites, multiple dining options, and a range of activities."
+    },
+    {
+      "id": "4",
+      "name": "English Point Marina",
+      "location": "Mombasa County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-6U399rKujGAKlB_nXahhGf_V1IkNNty_Q&s",
+      "description": "A luxury hotel located on the waterfront, offering comfortable rooms, a marina, and a range of recreational activities."
+    },
+    {
+      "id": "5",
+      "name": "Serena Beach Resort & Spa",
+      "location": "Shanzu Beach, Mombasa County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlKSvqgK7Kzwg_O0oUb8pUsEzispnn994S_A&s",
+      "description": "A 5-star resort located on the beach, offering luxurious rooms and suites, multiple dining options, and a range of activities."
+    },
+    {
+      "id": "6",
+      "name": "Nyali Beach Holiday Resort",
+      "location": "Nyali Beach, Mombasa County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZHiJHbCipn7ymogzICyjcjWGlNi7f68tOg&s",
+      "description": "A 3-star resort located on the beach, offering comfortable rooms, a range of recreational activities, and a relaxed atmosphere."
+    },
+    {
+      "id": "7",
+      "name": "Turtle Bay Beach Club",
+      "location": "Watamu Beach, Kilifi County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKQmwgBWCKyIxnUnenEmVWQBGhwwgIKd4pQ&s",
+      "description": "A 4-star resort located on the beach, offering comfortable rooms, a range of recreational activities, and a relaxed atmosphere."
+    },
+    {
+      "id": "8",
+      "name": "Ocean Sports Resort",
+      "location": "Watamu Beach, Kilifi County",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElAIo_JYjfHuYTYmKeesDlyB88xo1khrSww&s",
+      "description": "A 3-star resort located on the beach, offering comfortable rooms, a range of recreational activities, and a relaxed atmosphere."
+    }
     ],
     "safaris": [
       {
